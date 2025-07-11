@@ -7,9 +7,17 @@ Welcome to my corner of the internet where creativity meets code! I'm a full-sta
 - 🧠 **Mood Ring** – A mood-tracking app powered by AI, delivering daily affirmations to boost your mental wellness.
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript, Python, HTML, CSS, SQL
-- **Frameworks & Tools:** React, Node.js, Express, MongoDB, Django, PostgreSQL
-- **Extras:** AI integration, REST APIs, TailwindCSS, Vite, Git/GitHub
+## 🛠️ Languages and Tools
+
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python)
+![React](https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Django](https://img.shields.io/badge/Backend-Django-092E20?style=for-the-badge&logo=django)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![GitHub](https://img.shields.io/badge/Tool-GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/Editor-VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
 
 ## 🎯 Goals
 - Keep learning & building awesome things 💥  
