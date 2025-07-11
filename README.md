@@ -6,7 +6,7 @@ Welcome to my corner of the internet where creativity meets code! I'm a full-sta
 - 🎴 **Card Collector App** – A retro-style app for collecting football & WWE trading cards. Rare cards included 🔥
 - 🧠 **Mood Ring** – A mood-tracking app powered by AI, delivering daily affirmations to boost your mental wellness.
 
-## 🛠️ Tech Stack
+
 ## 🛠️ Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript)
